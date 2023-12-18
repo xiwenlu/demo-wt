@@ -7,5 +7,9 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Empty-MD-Topic.md"/>
     <toc-element topic="首页.md"/>
+    <toc-element topic="Empty-XML-Topic.topic"/>
+    <toc-element topic="Starter.md"/>
+    <toc-element topic="Tutorial.md"/>
 </instance-profile>
