@@ -1,10 +1,8 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <variables>
-        <primary-color>aqua</primary-color>
-        <product-web-url>https://help.example.com</product-web-url>
-        <download-title>Get Awesome App</download-title>
-        <download-page>https://example.com</download-page>
+        <download-title>GitHub</download-title>
+        <download-page>https://github.com/xiwenlu/demo-wt</download-page>
         <showDownloadButton>true</showDownloadButton>
     </variables>
     <build-profile instance="instance_id"/>
