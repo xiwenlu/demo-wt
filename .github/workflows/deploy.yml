@@ -24,6 +24,12 @@ env:
   # Replace HI with the ID of the instance in capital letters
   ALGOLIA_ARTIFACT: algolia-indexes-HI.zip
 
+  ALGOLIA_APP_NAME: DWXZS1D97T
+  ALGOLIA_INDEX_NAME: test
+  ALGOLIA_KEY: 332bdfed4b1e9aca48caa717943be892
+  CONFIG_JSON_PRODUCT: HI
+  CONFIG_JSON_VERSION: 2.0
+
 jobs:
   build:
     runs-on: ubuntu-latest
