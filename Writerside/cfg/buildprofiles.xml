@@ -3,6 +3,11 @@
     <variables>
         <download-title>GitHub</download-title>
         <download-page>https://github.com/xiwenlu/demo-wt</download-page>
+        <algolia-id>DWXZS1D97T</algolia-id>
+        <algolia-index>test</algolia-index>
+        <algolia-api-key>332bdfed4b1e9aca48caa717943be892</algolia-api-key>
+        <web-root>https://some.domain</web-root>
+
 <!--        <showDownloadButton>true</showDownloadButton>-->
     </variables>
     <build-profile instance="instance_id"/>
