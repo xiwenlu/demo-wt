@@ -3,7 +3,7 @@
     <variables>
         <download-title>GitHub</download-title>
         <download-page>https://github.com/xiwenlu/demo-wt</download-page>
-        <showDownloadButton>true</showDownloadButton>
+<!--        <showDownloadButton>true</showDownloadButton>-->
     </variables>
     <build-profile instance="instance_id"/>
     <footer>
