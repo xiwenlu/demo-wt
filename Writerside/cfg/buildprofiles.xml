@@ -3,12 +3,12 @@
     <variables>
         <download-title>GitHub</download-title>
         <download-page>https://github.com/xiwenlu/demo-wt</download-page>
-        <algolia-id>DWXZS1D97T</algolia-id>
-        <algolia-index>test</algolia-index>
-        <algolia-api-key>332bdfed4b1e9aca48caa717943be892</algolia-api-key>
+        <algolia-id>6JB2DGYI3P</algolia-id>
+        <algolia-index>test_0105</algolia-index>
+        <algolia-api-key>850311d6be08d16125597773e234bb7b</algolia-api-key>
         <web-root>https://some.domain</web-root>
 
-<!--        <showDownloadButton>true</showDownloadButton>-->
+        <showDownloadButton>true</showDownloadButton>
     </variables>
     <build-profile instance="instance_id"/>
     <footer>
